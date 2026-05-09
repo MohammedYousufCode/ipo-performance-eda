@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.jupyter/
+
+# Keep raw data private (optional — only if data is sensitive)
+# data/raw/
